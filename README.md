@@ -63,7 +63,7 @@ temporary read access in an interview.
 
 - **Funded Trader — Breakout** (crypto prop firm): passed the evaluation and trade a
   risk-managed funded account (2026).
-- **Top 1% of all traders — Polymarket** (2025 year-end ranking).
+- **Top 1% of all traders by year-end P&L — Polymarket** (2025 year-end ranking).
 - Self-employed; systematic and discretionary crypto trading is my primary income.
 
 ---
