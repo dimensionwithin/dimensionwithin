@@ -14,11 +14,9 @@ I build automations with AI agents and custom software in Python and TypeScript 
 - **dimensionwithin.cloud** · live in production. Booking system and this offer's website. Fastify, TypeScript, React/Vite, SQLite, Docker behind Traefik.
 - **Whistler** (formerly Whispa) · local-first dictation for Windows, beta, free (version 2.5.1). Hotkey, local transcription with whisper.cpp, text straight into the active field. Audio never leaves the machine.
 - **Hyperspace App Creator** · in-house production line that turns a brief into a tested app or website, with review gates and cost limits.
-- **Thumbnail agent** · LLM pipeline for YouTube thumbnails. Proposes, a human approves, only then it uploads.
-- **Transcript archive** · searchable archive of everything said across a video back catalog, with clips for new videos.
+- Internal tooling for video and archive workflows (built in-house)
 
 ## Background
-- Founder and host, DimensionWithin: German-language YouTube channel on macro and market analysis, since 2022.
 - Blockchain Professional, Blockchain Akademie (exam passed 2023).
 
 ## Tech
