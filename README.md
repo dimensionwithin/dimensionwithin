@@ -26,5 +26,5 @@ I build automations with AI agents and custom software in Python and TypeScript 
 **Discipline:** strict typing · automated tests · versioning · human approval gates
 
 ## Contact
-- joshua@dimensionwithin.de
+- https://dimensionwithin.cloud/
 - [LinkedIn](https://www.linkedin.com/in/dimensionwithin) · [dimensionwithin.cloud](https://dimensionwithin.cloud)
